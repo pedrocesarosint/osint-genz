@@ -24,7 +24,7 @@ A busca por username é uma das etapas mais úteis em correlação multiplatafor
 
 Ferramentas dessa categoria:
 
-* **Sherlock**: muito útil para descobrir presença de um username em muitas plataformas e testar variações semelhantes do handle.  
+* **Sherlock**: muito útil para descobrir presença de um username em muitas plataformas e testar variações semelhantes do handle. [[https://github.com/sherlock-project/sherlock]]  
 * **Namechk**: útil para verificar disponibilidade e ocorrência de usernames em múltiplos serviços.  
 * **UserSearch**: útil para triagem ampla em várias plataformas populares.
 
@@ -46,9 +46,7 @@ Esse bloco é importante porque investigação útil não depende só de “acha
 
 ## **10.4 Ferramentas de organização e documentação**
 
-Uma investigação sem documentação consistente perde valor rapidamente. O livro de due diligence enfatiza que análise e escrita são partes centrais do trabalho, e o manual de SOCMINT trata o registro de evidências como componente essencial da atividade investigativa.
-
-Ferramentas úteis dessa categoria incluem:
+Uma investigação sem documentação consistente perde valor rapidamente. A literatura enfatiza que análise e escrita são partes centrais do trabalho. Ferramentas úteis dessa categoria incluem:
 
 * editores Markdown para dossiês e relatórios;  
 * planilhas para triagem e matriz de correlação;  
@@ -95,7 +93,7 @@ Exemplo de uso metodológico:
 4. Validar manualmente bio, avatar, links, contexto e atividade.  
 5. Registrar apenas as correlações sustentadas por mais de um sinal.
 
-O próprio uso do Sherlock deixa claro um princípio importante do manual: encontrar ocorrências de um nome não equivale a confirmar identidade. A ferramenta amplia alcance; a validação continua sendo trabalho do investigador.
+O próprio uso do Sherlock deixa claro um princípio importante: encontrar ocorrências de um nome não equivale a confirmar identidade. A ferramenta amplia alcance; a validação continua sendo trabalho do investigador.
 
 ## **Aplicação prática**
 
