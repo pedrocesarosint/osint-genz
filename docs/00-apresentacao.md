@@ -1,14 +1,14 @@
-## **0\. Apresentação do manual**
+## **0\. Apresentação**
 
 Este manual foi desenvolvido para orientar investigadores de diferentes níveis de experiência na condução de atividades de OSINT e SOCMINT aplicadas à identificação, análise e contextualização de sinais digitais associados à Geração Z. O foco está em métodos práticos, fluxos de trabalho, critérios de validação, leitura contextual de plataformas e registro adequado de achados, com prioridade para investigações e processos de due diligence corporativa.
 
 O conteúdo foi estruturado para ser útil tanto em atividades de aprendizado quanto em operações reais de pesquisa digital, especialmente quando o objetivo é localizar perfis, relacionar contas, interpretar comportamento online e organizar evidências observáveis em ambientes digitais abertos ou semiabertos. A proposta não é oferecer um catálogo de “truques”, mas um guia de trabalho replicável, auditável e adaptável a diferentes cenários investigativos.
 
-## **0.1 Objetivo do guia**
+## **0.1 Objetivo**
 
-O objetivo deste guia é apresentar uma base metodológica clara para investigações que envolvam pessoas ou perfis associados à Geração Z, com ênfase na coleta responsável de sinais públicos, na triagem inicial de contas, na correlação entre plataformas e na validação progressiva de hipóteses. Em vez de concentrar o conteúdo em ferramentas isoladas, o manual prioriza o raciocínio investigativo, o encadeamento das etapas e a qualidade do registro analítico.
+O objetivo é apresentar uma base metodológica clara para investigações que envolvam pessoas ou perfis associados à Geração Z, com ênfase na coleta responsável de sinais públicos, na triagem inicial de contas, na correlação entre plataformas e na validação progressiva de hipóteses. Em vez de concentrar o conteúdo em ferramentas isoladas, o manual prioriza o raciocínio investigativo, o encadeamento das etapas e a qualidade do registro analítico.
 
-De forma prática, o guia busca ajudar o investigador a responder perguntas como: onde procurar, o que observar, como diferenciar um indício forte de um sinal fraco, como evitar associações indevidas e como transformar observações dispersas em documentação utilizável. Essa abordagem é consistente com manuais de OSINT e SOCMINT que tratam a investigação como processo estruturado, e não apenas como busca pontual de dados.
+De forma prática, busca ajudar o investigador a responder perguntas como: onde procurar, o que observar, como diferenciar um indício forte de um sinal fraco, como evitar associações indevidas e como transformar observações dispersas em documentação utilizável. Essa abordagem é consistente com manuais de OSINT e SOCMINT que tratam a investigação como processo estruturado, e não apenas como busca pontual de dados.
 
 ## **0.2 Para quem este manual foi feito**
 
