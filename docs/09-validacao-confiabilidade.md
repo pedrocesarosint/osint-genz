@@ -2,7 +2,6 @@
 
 A etapa de validação existe para testar se os achados reunidos até aqui realmente sustentam a hipótese investigativa. Em investigações sobre perfis digitais, especialmente em redes sociais, a quantidade de sinais observáveis pode ser grande, mas a qualidade e o grau de certeza desses sinais variam muito.
 
-Por isso, confiabilidade não depende apenas de “ter encontrado algo”, mas de saber o que aquele achado prova, o que apenas sugere e o que ainda permanece ambíguo. O material de due diligence consultado enfatiza que fatos devem liderar a análise e que associações extraídas de redes sociais precisam ser investigadas mais a fundo antes de sustentar conclusões.
 
 ## **09.1 Como testar hipóteses sem concluir cedo demais**
 
@@ -15,7 +14,6 @@ Para evitar isso, cada hipótese deve ser tratada como uma proposição provisó
 A forma mais segura de validar achados em SOCMINT é a confirmação cruzada. Isso significa comparar um mesmo ponto com fontes, superfícies ou contextos diferentes, em vez de depender de um único elemento, como username, foto, bio, comentário ou amizade visível.
 
 Exemplos de confirmação cruzada:
-
 * username semelhante em duas plataformas;  
 * mesmo avatar ou estilo visual;  
 * bio compatível com outro perfil;  
@@ -37,7 +35,7 @@ Escala sugerida:
 
 ## **09.4 Redução de falsos positivos**
 
-Falso positivo ocorre quando o investigador associa incorretamente um dado, perfil, vínculo ou comportamento à pessoa errada. O livro de due diligence chama atenção para problemas recorrentes de confusão por nome, falta de identificadores suficientes, dados incompletos e risco de interpretações incorretas em ambientes digitais.
+Falso positivo ocorre quando o investigador associa incorretamente um dado, perfil, vínculo ou comportamento à pessoa errada. Deve-se chamar atenção para problemas recorrentes de confusão por nome, falta de identificadores suficientes, dados incompletos e risco de interpretações incorretas em ambientes digitais.
 
 Para reduzir falsos positivos:
 
@@ -49,10 +47,9 @@ Para reduzir falsos positivos:
 
 ## **09.5 Quando um achado é indício e não fato**
 
-Um dos pontos mais importantes desta seção é separar observação, inferência e conclusão. O texto de due diligence consultado é claro ao afirmar que o investigador não deve fazer afirmações fortes baseadas apenas em pesquisa aberta, especialmente quando está lidando com associações, reputação ou conexões sociais.
+Um dos pontos mais importantes desta seção é separar observação, inferência e conclusão. Não se deve fazer afirmações fortes baseadas apenas em pesquisa aberta, especialmente quando está lidando com associações, reputação ou conexões sociais.
 
 Na prática:
-
 * “segue determinado perfil” é fato observável, se de fato estiver visível;  
 * “é próximo dessa pessoa” já é inferência;  
 * “participa da mesma rede de interesse” pode ser hipótese plausível, mas não conclusão automática.  
@@ -74,7 +71,7 @@ Critérios sugeridos:
 
 ## **09.7 Linguagem de cautela no relatório**
 
-A confiabilidade da investigação não depende apenas da análise, mas também da forma de escrever. O material de due diligence recomenda usar linguagem qualificadora quando a base ainda for parcial, evitando transformar proximidade analítica em certeza declarativa.
+A confiabilidade da investigação não depende apenas da análise, mas também da forma de escrever. Recomenda-se usar linguagem qualificadora quando a base ainda for parcial, evitando transformar proximidade analítica em certeza declarativa.
 
 Expressões úteis:
 
@@ -85,8 +82,6 @@ Expressões úteis:
 * “o achado deve ser tratado como hipótese de trabalho…”
 
 ## **09.8 Template de avaliação de confiabilidade**
-
-Para facilitar reaproveitamento no repositório, esta seção pode encerrar com um template simples de avaliação. Isso transforma a metodologia em uma rotina objetiva para cada perfil, conta ou correlação examinada.
 
 Modelo sugerido:
 
@@ -100,9 +95,3 @@ Modelo sugerido:
 * Natureza do achado: fato, indício, hipótese.  
 * Observação analítica:  
 * Próxima etapa recomendada: confirmar, monitorar, arquivar, descartar.
-
-## **Aplicação prática**
-
-Em investigações digitais, validar é mais importante do que acumular. Um relatório curto com poucos achados bem sustentados costuma ser mais útil do que um documento longo cheio de conexões frágeis, linguagem exagerada e conclusões apressadas.
-
-Por isso, a seção de validação e confiabilidade funciona como controle de qualidade do manual inteiro. Ela obriga o investigador a demonstrar não apenas o que encontrou, mas com que grau de segurança aquilo pode ser usado em triagem, parecer, dossiê ou due diligence.
