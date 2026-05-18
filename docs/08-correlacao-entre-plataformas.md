@@ -41,7 +41,7 @@ As fontes mais simples para descobrir usernames conhecidos incluem:
 
 ## **08.4 Como descobrir usernames ainda não conhecidos**
 
-Quando o username não está disponível de forma direta, o trabalho passa a ser dedutivo e comparativo. O livro de due diligence destaca que uma boa maneira de descobrir um nickname é usar mecanismo de busca para conectar nome real e apelido, e depois testar esse apelido nos domínios das plataformas relevantes.
+Quando o username não está disponível de forma direta, o trabalho passa a ser dedutivo e comparativo. Uma boa maneira de descobrir um nickname é usar mecanismo de busca para conectar nome real e apelido, e depois testar esse apelido nos domínios das plataformas relevantes.
 
 Aplicação prática:
 
@@ -54,10 +54,6 @@ Aplicação prática:
 
 ## **08.5 Ferramentas úteis para localizar usernames**
 
-A documentação de SOCMINT consultada cita explicitamente o uso de ferramentas como **Namechk** e **UserSearch** para procurar usernames semelhantes em várias plataformas. O mesmo material também indica que a repetição de um username em múltiplos serviços é útil para mapear a presença digital do alvo.
-
-No contexto do seu repositório, vale documentar essas ferramentas como apoio de triagem, não como validadores finais:
-
 * **Namechk**: útil para verificar disponibilidade e ocorrência de usernames em muitos serviços.  
 * **UserSearch**: útil para varrer múltiplas plataformas com um mesmo identificador.  
 * **Sherlock**: útil como apoio técnico para busca por usernames em serviços diversos, especialmente em fluxos OSINT mais estruturados.   
@@ -66,7 +62,7 @@ No contexto do seu repositório, vale documentar essas ferramentas como apoio de
 
 ## **08.6 Username como sinal forte ou fraco**
 
-Nem todo username igual significa mesma pessoa. O próprio material de due diligence alerta que investigações digitais enfrentam problemas de variações de nome, identificadores insuficientes, falsos positivos e falsos negativos, o que vale também para usernames.
+Nem todo username igual significa mesma pessoa. Investigações digitais enfrentam problemas de variações de nome, identificadores insuficientes, falsos positivos e falsos negativos, o que vale também para usernames.
 
 Em termos práticos:
 
@@ -82,8 +78,6 @@ Username é melhor usado como ponto de partida, não como ponto de chegada. A va
 Uma boa regra metodológica é: quanto mais raro o username, menos sinais complementares são necessários; quanto mais genérico o username, maior deve ser a exigência de confirmação cruzada. Essa lógica ajuda a reduzir erro de associação, especialmente em investigações com nomes comuns, fandoms, comunidades gamer e perfis juvenis com nomenclaturas parecidas.
 
 ## **08.8 Fluxo prático para identificar usernames**
-
-Para tornar a seção mais operacional, o ideal é fixar um fluxo simples de trabalho. Isso facilita repetibilidade e documentação.
 
 Fluxo sugerido:
 
@@ -109,8 +103,6 @@ Erros a evitar:
 
 ## **08.10 Template de correlação por username**
 
-Para uso no repositório, vale fechar a seção com um template simples. Isso ajuda a transformar a metodologia em prática reaproveitável.
-
 Modelo sugerido:
 
 * Username base:  
@@ -122,9 +114,3 @@ Modelo sugerido:
 * Classificação da correlação: forte, provável, fraca.  
 * Risco de falso positivo:  
 * Próxima ação: validar, monitorar, arquivar, descartar.
-
-## **Aplicação prática**
-
-Em investigações multiplataforma, usernames funcionam como um excelente ponto de entrada porque são rápidos de testar, fáceis de documentar e úteis para expandir a superfície inicial de busca. O ganho real, porém, não está em “achar o mesmo nome”, mas em demonstrar que esse nome faz sentido dentro de um conjunto coerente de sinais.
-
-Por isso, a melhor forma de trabalhar usernames é tratá-los como chave de correlação progressiva. Primeiro localizam contas; depois ajudam a compará-las; por fim, só ganham valor conclusivo quando acompanhados de contexto, repetição e validação cruzada.
