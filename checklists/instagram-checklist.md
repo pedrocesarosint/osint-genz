@@ -64,6 +64,5 @@
 ## **Confirmação em outras fontes/plataformas**
 
 * **Achados foram confirmados em outra fonte ou plataforma antes de qualquer conclusão forte.**  
-  * Guias especializados insistem que evidência de Instagram deve ser cruzada com outras fontes: outras redes sociais, registros públicos, notícias, documentos e, se for o caso, dados internos da organização.  
   * Use reverse image search, dorks em motores de busca e plataformas de social media lookup (focadas em correlação de perfis) para verificar se detalhes de bio, fotos e padrões de linguagem aparecem de forma consistente fora do Instagram.  
   * Para preservar evidência de maneira defensável, recomenda‑se capturar páginas com ferramentas forenses/web‑archiving (Pagefreezer, Webrecorder, Wayback) e manter registro de data/hora, URL, ferramenta e escopo de coleta, como descrito nos guias de coleta “defensável”.
