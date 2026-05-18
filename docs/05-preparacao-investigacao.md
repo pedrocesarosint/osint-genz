@@ -1,22 +1,22 @@
-## **6\. Preparação da investigação**
+## **5\. Preparação da investigação**
 
 A qualidade de uma investigação depende fortemente do que acontece antes da primeira busca. Em OSINT e SOCMINT, preparar a investigação significa definir o problema com precisão, organizar os parâmetros de coleta, escolher o nível de profundidade adequado e estabelecer um padrão de documentação que permita repetir o caminho percorrido e justificar as conclusões apresentadas.
 
 Essa preparação é especialmente importante em casos envolvendo perfis digitais da Geração Z, porque o volume de sinais é alto, a identidade costuma estar fragmentada entre plataformas e conteúdos de baixo valor analítico podem distrair facilmente o investigador. Uma preparação deficiente tende a produzir buscas dispersas, notas inconsistentes e inferências mais frágeis do que os dados realmente permitem sustentar.
 
-## **6.1 Definição do objetivo da busca**
+## **5.1 Definição do objetivo da busca**
 
 Toda investigação deve começar com um objetivo formulado de maneira clara, verificável e operacional. Não basta “pesquisar uma pessoa” ou “entender um perfil”; é preciso traduzir a demanda em uma pergunta prática, como validar identidade digital, localizar contas associadas, avaliar sinais de risco reputacional, identificar vínculos observáveis ou mapear coerência entre presença online e narrativa declarada.
 
 Definir o objetivo evita dispersão e ajuda a escolher quais fontes consultar, quais dados coletar e quais sinais ignorar. Referências de OSINT e due diligence insistem que a pesquisa começa melhor quando o investigador sabe exatamente o que precisa responder, quais resultados espera obter e quais limites não deve ultrapassar.
 
-## **6.2 Escopo mínimo de dados**
+## **5.2 Escopo mínimo de dados**
 
 Depois do objetivo, vem a definição do escopo mínimo de dados. Isso significa estabelecer, antes da coleta, quais elementos são realmente necessários para responder à hipótese do caso, reduzindo a tentação de acumular informação irrelevante apenas porque ela está disponível.
 
 No contexto deste manual, o escopo mínimo geralmente inclui identificadores básicos, como nome de exibição, username, variações de arroba, bio, links associados, imagens de perfil, menções cruzadas, sinais de localização contextual, vínculos observáveis e conteúdos públicos relevantes para a hipótese investigativa. O princípio central é proporcionalidade: coletar o suficiente para analisar com segurança, sem transformar a investigação em arquivo excessivo de dados sem função prática.
 
-## **6.3 Checklist de preparação antes da coleta**
+## **5.3 Checklist de preparação antes da coleta**
 
 Antes de iniciar a coleta, o investigador deve revisar um checklist simples de prontidão metodológica. Essa etapa funciona como barreira contra erro de escopo, pesquisa desorganizada e decisões precipitadas durante a navegação.
 
@@ -31,19 +31,19 @@ Checklist recomendado:
 * O padrão de registro de notas e evidências foi definido.  
 * Os limites éticos, legais e operacionais do caso foram revisados.
 
-## **6.4 Organização de pastas, nomes e versões**
+## **5.4 Organização de pastas, nomes e versões**
 
 Uma investigação sem organização documental tende a perder rastreabilidade rapidamente. Por isso, antes da coleta, é recomendável criar uma estrutura mínima de pastas e convenções de nomeação para armazenar capturas, notas, exportações, links e relatórios parciais de forma consistente.
 
 Boas práticas incluem separar materiais por caso, por plataforma e por tipo de evidência, além de adotar nomes padronizados com data, plataforma, identificador do alvo e tipo de registro. Também é importante trabalhar com versões explícitas, como v01, v02 e final, porque isso evita sobrescrita de análises, reduz confusão entre rascunhos e facilita auditoria interna do trabalho.
 
-## **6.5 Plano de coleta manual e semiautomatizado**
+## **5.5 Plano de coleta manual e semiautomatizado**
 
 Com o ambiente de trabalho preparado, o investigador deve decidir como a coleta será feita. Em muitos casos, a melhor abordagem combina coleta manual, para leitura contextual e validação fina, com apoio semiautomatizado em tarefas pontuais, como busca de usernames em múltiplas plataformas, captura organizada de links ou apoio à indexação de notas.
 
 O plano de coleta precisa definir a ordem das fontes, o que será observado em cada plataforma, como os resultados serão registrados e em que momento uma nova pista justifica aprofundamento. A literatura de OSINT destaca que método vem antes de ferramenta: o uso de recursos variados melhora a cobertura, mas só produz inteligência útil quando integrado a um processo estruturado de coleta, verificação e análise.
 
-## **6.6 Cuidados para evitar excesso de coleta e falso positivo**
+## **5.6 Cuidados para evitar excesso de coleta e falso positivo**
 
 Preparar bem também significa saber onde parar. Quanto maior o volume de dados disponíveis, maior o risco de supercoleta, interpretação fora de contexto e associação indevida entre perfis, pessoas ou comportamentos.
 
