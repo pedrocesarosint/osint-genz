@@ -66,7 +66,3 @@ Modelo sugerido:
 * Grau de confiança: forte, provável, fraca.  
 * Observação analítica:  
 * Próxima ação: aprofundar, monitorar, arquivar, validar depois.
-
-## **Aplicação prática**
-
-Na prática, a triagem deve funcionar como um funil: o investigador começa com muitos perfis possíveis e termina com um conjunto menor, mais consistente e priorizado, pronto para correlação entre plataformas e validação de identidade. Isso é particularmente útil quando o alvo usa pseudônimos, alterna contas ou combina perfis públicos com perfis de circulação restrita.
