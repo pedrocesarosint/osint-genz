@@ -31,7 +31,6 @@
   * Em cada vídeo, anote hashtags e o som usado; clique na hashtag e no áudio para abrir a página dedicada e ver outros vídeos que usam o mesmo recurso, como ensinam guias de monitoramento para jornalistas e analistas.  
   * Use ferramentas específicas:  
     * **TikTok Timestamp Tool** (Bellingcat) para obter timestamp exato de upload a partir da URL.  
-    * **TikTok Creative Center** para analisar hashtags, sons e criatividade por país, faixa etária e tendências, inclusive em campanhas de desinformação.  
     * **TikTok hashtag analysis toolset** ou **TikTok‑Scraper** para baixar vídeos/metadata por hashtag em determinado período e exportar em CSV para análise posterior.  
   * Use também geradores de hashtag (TikTok Hashtag Generator e equivalentes) para descobrir hashtags relacionadas quando você já encontrou uma ou duas muito ligadas ao caso.
 
@@ -80,6 +79,5 @@
 ## **Captura, preservação e OPSEC**
 
 * **Como registrar o que foi observado de forma defensável.**  
-  * Use **TikTok Downloader** ou TikTok‑Scraper para baixar cópias locais dos vídeos relevantes (MP4) e manter evidência completa, como sugerido em treinamentos da comunidade OSINT.  
+  * Use **TikTok Downloader** ou TikTok‑Scraper para baixar cópias locais dos vídeos relevantes (MP4) e manter evidência completa.  
   * Combine isso com ferramentas de captura de tela/gravação (OBS, screen recorder) e anote data/hora, URL do vídeo/perfil e ferramenta usada — prática recomendada para cadeia de custódia mínima em relatórios de investigação.  
-  * Em discussões em r/OSINT e guias de ética, o consenso é: não tentar “desmascarar” contas anônimas além do que a própria plataforma e fontes públicas permitem; evitar scraping agressivo que viole ToS; e, em casos de crime, encaminhar o material às autoridades competentes em vez de expor a identidade publicamente.
