@@ -1,5 +1,3 @@
-# Contribuindo
-
 Obrigado por querer contribuir com este repositório.
 
 Este projeto organiza documentação, checklists, templates e fluxos sobre OSINT e SOCMINT aplicados à Geração Z. As contribuições devem fortalecer a clareza metodológica, a utilidade prática e a consistência editorial do material.
