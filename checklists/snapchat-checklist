@@ -52,7 +52,6 @@
   * Combine isso com a presença (ou ausência) do usuário em Snap Map público: contas usadas só para DM e grupos tendem a aparecer menos em “Our Story”/mapa, enquanto perfis mais exibicionistas ou de criador frequentemente publicam stories geolocalizados.
 
 ---
-
 ## **Confirmação fora do Snapchat antes de conclusões fortes**
 
 * **Os sinais observados foram confirmados fora do Snapchat antes de qualquer conclusão forte.**  
@@ -65,6 +64,5 @@
 ## **Captura e preservação de evidência efêmera**
 
 * **Como registrar o que foi realmente visto.**  
-  * Profissionais em r/OSINT relatam preferir **gravação de tela** ou foto de outro dispositivo filmando o aparelho com o Snapchat aberto, pois prints isolados são mais fáceis de contestar quanto a edição.  
   * No desktop, usar **web.snapchat.com**, emuladores Android (Bluestacks) e ferramentas como **OBS Studio** é prática comum para registrar stories/chats enquanto navega, mantendo trilha de tempo clara.  
   * Toda captura deve ser acompanhada de contexto: data/hora, URL ou coordenadas no Snap Map, breve descrição do que está sendo visto, além de anotações sobre limites da visualização (por exemplo: “somente stories públicos naquele momento”).
